@@ -1,3 +1,6 @@
+{
+  "id": "1",
+  "messages" :
 [
     {
       "message": "Hi",
@@ -13,7 +16,7 @@
     },
     {
       "message": "Fine. And you?",
-      "author": "Simone"
+      "author": "Simon"
     },
     {
       "message": "Injured my leg yesterday.. Feels bad",
@@ -21,7 +24,7 @@
     },
   {
     "message": "Thats bad... ",
-    "author": "Simone"
+    "author": "Simon"
   },
   {
     "breakMessage": "breakMessage"
@@ -45,5 +48,6 @@
     "message": "Hope so... ",
     "author":  "Nick"
   }
-  ]
+]
 
+}
