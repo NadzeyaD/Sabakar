@@ -1,5 +1,11 @@
 {
   "id": "1",
+   "storyName": "The First Story",
+      "storyAuthorName": "Nadia",
+      "shortDescription": "This is just the first story",
+      "coverImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP5gbBJlpb9xTj7CYBT-p4e-oqjniHdvwe8tnMG0Srr-SfbxZ5",
+      "date": "05.10.2017",
+      "url": "sdfsdf",
   "messages" :
 [
     {
