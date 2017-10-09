@@ -14,5 +14,30 @@
       "coverImageUrl": "https://images.pexels.com/photos/33109/fall-autumn-red-season.jpg?w=1260&h=750&auto=compress&cs=tinysrgb",
       "date": "05.10.2017",
       "url": "sdfsdf"
+    },
+    {
+      "storyName": "The Third Story",
+      "storyAuthorName": "Nadia",
+      "shortDescription": "This is just the third story",
+      "coverImageUrl": "http://www.youwall.com/wallpapers/201202/wonderful-flowers-wallpaper.jpg",
+      "date": "05.10.2017",
+      "url": "sdfsdf"
+    },
+    {
+      "storyName": "The Forth Story",
+      "storyAuthorName": "Nadia",
+      "shortDescription": "This is just the forth story",
+      "coverImageUrl": "https://static.pexels.com/photos/36717/amazing-animal-beautiful-beautifull.jpg",
+      "date": "05.10.2017",
+      "url": "sdfsdf"
+    },
+    {
+      "storyName": "The Fifth Story",
+      "storyAuthorName": "Nadia",
+      "shortDescription": "This is just the fifth story",
+      "coverImageUrl": "https://i.pinimg.com/originals/f9/e7/45/f9e7450dc4aa9689f9c4cca4a60e6a32.jpg",
+      "date": "05.10.2017",
+      "url": "sdfsdf"
     }
   ]
+
