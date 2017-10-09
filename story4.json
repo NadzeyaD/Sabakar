@@ -1,0 +1,59 @@
+{
+  "id": "4",
+      "storyName": "The Forth Story",
+      "storyAuthorName": "Nadia",
+      "shortDescription": "This is just the forth story",
+      "coverImageUrl": "https://static.pexels.com/photos/36717/amazing-animal-beautiful-beautifull.jpg",
+      "date": "05.10.2017",
+      "url": "sdfsdf",
+  "messages" :
+[
+    {
+      "message": "Hi",
+      "author": "Nick"
+    },
+    {
+      "message": "Hi",
+      "author": "Simon"
+    },
+    {
+      "message": "How are you?",
+      "author": "Nick"
+    },
+    {
+      "message": "Fine. And you?",
+      "author": "Simon"
+    },
+    {
+      "message": "Injured my leg yesterday.. Feels bad",
+      "author": "Nick"
+    },
+  {
+    "message": "Thats bad... ",
+    "author": "Simon"
+  },
+  {
+    "breakMessage": "breakMessage"
+  },
+  {
+    "message": "Did you see game yestarday?",
+    "author": "Nick"
+  },
+  {
+    "message": "Yeah... Was boring actually.. ",
+    "author": "Simon"
+  },
+  {
+    "dividerMessage": "10 minutes left"
+  },
+  {
+    "message": "Hope next game will be more interesting",
+    "author": "Simon"
+  },
+  {
+    "message": "Hope so... ",
+    "author":  "Nick"
+  }
+]
+
+}
