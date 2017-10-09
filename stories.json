@@ -1,0 +1,18 @@
+[
+    {
+      "storyName": "The First Story",
+      "storyAuthorName": "Nadia",
+      "shortDescription": "This is just the first story",
+      "coverImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP5gbBJlpb9xTj7CYBT-p4e-oqjniHdvwe8tnMG0Srr-SfbxZ5",
+      "date": "05.10.2017",
+      "url": "sdfsdf"
+    },
+    {
+      "storyName": "The Second Story",
+      "storyAuthorName": "Nadia",
+      "shortDescription": "This is just the second story",
+      "coverImageUrl": "https://images.pexels.com/photos/33109/fall-autumn-red-season.jpg?w=1260&h=750&auto=compress&cs=tinysrgb",
+      "date": "05.10.2017",
+      "url": "sdfsdf"
+    }
+  ]
