@@ -1,0 +1,59 @@
+{
+  "id": "5",
+      "storyName": "The Fifth Story",
+      "storyAuthorName": "Nadia",
+      "shortDescription": "This is just the fifth story",
+      "coverImageUrl": "https://i.pinimg.com/originals/f9/e7/45/f9e7450dc4aa9689f9c4cca4a60e6a32.jpg",
+      "date": "05.10.2017",
+      "url": "sdfsdf",
+  "messages" :
+[
+    {
+      "message": "Hi",
+      "author": "Nick"
+    },
+    {
+      "message": "Hi",
+      "author": "Simon"
+    },
+    {
+      "message": "How are you?",
+      "author": "Nick"
+    },
+    {
+      "message": "Fine. And you?",
+      "author": "Simon"
+    },
+    {
+      "message": "Injured my leg yesterday.. Feels bad",
+      "author": "Nick"
+    },
+  {
+    "message": "Thats bad... ",
+    "author": "Simon"
+  },
+  {
+    "breakMessage": "breakMessage"
+  },
+  {
+    "message": "Did you see game yestarday?",
+    "author": "Nick"
+  },
+  {
+    "message": "Yeah... Was boring actually.. ",
+    "author": "Simon"
+  },
+  {
+    "dividerMessage": "10 minutes left"
+  },
+  {
+    "message": "Hope next game will be more interesting",
+    "author": "Simon"
+  },
+  {
+    "message": "Hope so... ",
+    "author":  "Nick"
+  }
+]
+
+}
