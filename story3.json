@@ -1,0 +1,59 @@
+{
+  "id": "3",
+      "storyName": "The Third Story",
+      "storyAuthorName": "Nadia",
+      "shortDescription": "This is just the third story",
+      "coverImageUrl": "http://www.youwall.com/wallpapers/201202/wonderful-flowers-wallpaper.jpg",
+      "date": "05.10.2017",
+      "url": "sdfsdf"
+  "messages" :
+[
+    {
+      "message": "Hi",
+      "author": "Nick"
+    },
+    {
+      "message": "Hi",
+      "author": "Simon"
+    },
+    {
+      "message": "How are you?",
+      "author": "Nick"
+    },
+    {
+      "message": "Fine. And you?",
+      "author": "Simon"
+    },
+    {
+      "message": "Injured my leg yesterday.. Feels bad",
+      "author": "Nick"
+    },
+  {
+    "message": "Thats bad... ",
+    "author": "Simon"
+  },
+  {
+    "breakMessage": "breakMessage"
+  },
+  {
+    "message": "Did you see game yestarday?",
+    "author": "Nick"
+  },
+  {
+    "message": "Yeah... Was boring actually.. ",
+    "author": "Simon"
+  },
+  {
+    "dividerMessage": "10 minutes left"
+  },
+  {
+    "message": "Hope next game will be more interesting",
+    "author": "Simon"
+  },
+  {
+    "message": "Hope so... ",
+    "author":  "Nick"
+  }
+]
+
+}
